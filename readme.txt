@@ -1,3 +1,5 @@
+LE TRAVAIL SE TROUVE SUR LA BRANCHE MASTER DU DÉPÔT
+
 Pour utiliser mon Programme veuillez suivre les étapes suivantes
 
 +Entrez le choix l'opération à éffectuer (1 pour crypter un message et 2 pour décrypter un message)
